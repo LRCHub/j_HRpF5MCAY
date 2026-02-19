@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "閻魔王の言う通り",
+  "base_artist": "をとは",
+  "createdAt": "2026-02-19T13:46:38.170404Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "閻魔王の言う通り",
+      "artist": "をとは",
+      "has_synced": false,
+      "path": "select/pl_01_閻魔王の言う通り_をとは.txt"
+    }
+  ]
+}
